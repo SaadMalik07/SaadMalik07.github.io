@@ -28,9 +28,9 @@
   $contact->smtp = array(
     'host' => 'ssl://smtp.gmail.com',
     'username' => 'saadmalik@princeton.edu',
-    'password' => 'STigerMalik0077',
-    'port' => '465',
-    'mail'=>SMTPAuth = true
+    'password' => ,
+    'port' => ,
+    'mail'=>SMTPAuth = 
   );
   
 
