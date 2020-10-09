@@ -378,12 +378,12 @@ nav ul li a {
 }
 
 
-.flex-child1a {
+.flex-child1 {
     flex: 1;
     border: 2px solid yellow;
 }
 
-.flex-child1b {
+.flex-child1:first-child {
  margin-right: 20px;
 
 }
