@@ -379,6 +379,8 @@ nav ul li a {
 
 
 .flex-child1 {
+    align-items: center;
+    justify-content: center;
     flex: 1;
     border: 2px solid yellow;
 }
