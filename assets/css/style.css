@@ -370,7 +370,25 @@ nav ul li a {
   margin-bottom: 0;
   text-align: left;
 }
+/*--------------------------------------------------------------
+# Languages and Frameworks
+--------------------------------------------------------------*/
+.flex-container1 {
+  display: flex;
+}
 
+
+.flex-child1a {
+    flex: 1;
+    border: 2px solid yellow;
+}
+
+.flex-child1b {
+  flex: 1;
+   border: 2px solid yellow;
+
+}
+  
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
