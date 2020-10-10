@@ -424,7 +424,6 @@ nav ul li a {
 .coursework-child1 {
     align-items: center;
     justify-content: center;
-    flex: 1;
     border: 2px solid black;
    margin-right: 140px;
   text-align: center;
