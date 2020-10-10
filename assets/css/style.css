@@ -383,6 +383,9 @@ nav ul li a {
     justify-content: center;
     flex: 1;
     border: 2px solid yellow;
+   margin-right: 40px;
+   margin-left: 40px;
+    
 }
 
 .flex-child1:first-child {
