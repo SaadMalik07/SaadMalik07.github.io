@@ -373,8 +373,18 @@ nav ul li a {
 /*--------------------------------------------------------------
 # Languages and Frameworks
 --------------------------------------------------------------*/
+
+#frameworks {
+  width: 100%;
+  height: auto;
+  background: #f7f7f7;
+  padding-top: 120px;
+}
+
+
 .flex-container1 {
   display: flex;
+ 
 }
 
 
