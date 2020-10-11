@@ -389,13 +389,13 @@ nav ul li a {
 
 
 .flex-child1 {
-    align-items: center;
-    justify-content: center;
-    flex: 1;
-    border: 2px solid black;
-   margin-right: 140px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  border: 2px solid black;
+  margin-right: 140px;
   text-align: center;
-   margin-left: 140px;
+  margin-left: 140px;
   margin-bottom: 100px;
     
 }
@@ -403,6 +403,18 @@ nav ul li a {
 .flex-child1:first-child {
  margin-right: 20px;
 
+}
+
+#flex-child-courses {
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  border: 2px solid black;
+  margin-right: 140px;
+  text-align: center;
+  margin-left: 140px;
+  margin-bottom: 100px;
+    
 }
 
 /*--------------------------------------------------------------
