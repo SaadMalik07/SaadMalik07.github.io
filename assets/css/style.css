@@ -405,7 +405,7 @@ nav ul li a {
 
 }
 
-#flex-child-courses {
+.flex-child-courses {
   align-items: center;
   justify-content: center;
   flex: 1;
